@@ -18,9 +18,9 @@
 ## 1. Greedy
 :arrow_forward: [바로가기](/src/main/kotlin/greedy)
 * [X] [거스름돈](/src/main/kotlin/greedy/거스름돈.kt)
-* [X] [큰 수의 법칙](/src/main/kotlin/greedy/큰 수의 법칙.kt)
-* [X] [숫자 카드 게임](/src/main/kotlin/greedy/숫자 카드 게임.kt)
-* [X] [1이 될 때까지](/src/main/kotlin/greedy/1이 될 때까지.kt)
+* [X] [큰 수의 법칙](/src/main/kotlin/greedy/큰_수의_법칙.kt)
+* [X] [숫자 카드 게임](/src/main/kotlin/greedy/숫자_카드_게임.kt)
+* [X] [1이 될 때까지](/src/main/kotlin/greedy/1이_될_때까지.kt)
 
 ## 2. Implement
 :arrow_forward: [바로가기](/src/main/kotlin/implement)
