@@ -26,8 +26,8 @@
 :arrow_forward: [바로가기](/src/main/kotlin/implement)
 * [X] [상하좌우](/src/main/kotlin/implement/상하좌우.kt)
 * [X] [시각](/src/main/kotlin/implement/시각.kt)
-* [ ] [왕실의 나이트](/src/main/kotlin/implement/왕실의_나이트.kt)
-* [ ] [게임 개발](/src/main/kotlin/implement/게임_개발.kt)
+* [X] [왕실의 나이트](/src/main/kotlin/implement/왕실의_나이트.kt)
+* [X] [게임 개발](/src/main/kotlin/implement/게임_개발.kt)
 
 ## 3. DFS & BFS
 :arrow_forward: [바로가기](/src/main/kotlin/dfsbfs)
