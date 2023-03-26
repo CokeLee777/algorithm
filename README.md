@@ -34,7 +34,7 @@
 * [X] [DFS 예제](/src/main/kotlin/dfsbfs/DFS_예제.kt)
 * [X] [BFS 예제](/src/main/kotlin/dfsbfs/BFS_예제.kt)
 * [X] [음료수 얼려 먹기](/src/main/kotlin/dfsbfs/음료수_얼려_먹기.kt)
-* [ ] [미로 탈출](/src/main/kotlin/dfsbfs/미로_탈출.kt)
+* [X] [미로 탈출](/src/main/kotlin/dfsbfs/미로_탈출.kt)
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
