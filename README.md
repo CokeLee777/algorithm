@@ -38,6 +38,10 @@
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
+* [X] [선택 정렬](/src/main/kotlin/sort/선택_정렬.kt)
+* [X] [삽입 정렬](/src/main/kotlin/sort/삽입_정렬.kt)
+* [ ] [퀵 정렬](/src/main/kotlin/sort/퀵_정렬.kt)
+* [ ] [계수 정렬](/src/main/kotlin/sort/계수_정렬.kt)
 
 ## 5. Binary Search
 :arrow_forward: [바로가기](/src/main/kotlin/binarysearch)
