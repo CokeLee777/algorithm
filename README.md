@@ -23,6 +23,10 @@
 * [X] [1이 될 때까지](/src/main/kotlin/greedy/1이_될_때까지.kt)
 * [X] [모험가 길드](/src/main/kotlin/greedy/모험가_길드.kt)
 * [X] [곱하기 혹은 더하기](/src/main/kotlin/greedy/곱하기_혹은_더하기.kt)
+* [X] [문자열 뒤집기](/src/main/kotlin/greedy/문자열_뒤집기.kt)
+* [X] [만들 수 없는 금액](/src/main/kotlin/greedy/만들수_없는_금액.kt)
+* [X] [볼링공 고르기](/src/main/kotlin/greedy/볼링공_고르기.kt)
+* [ ] [무지의 먹방 라이브](/src/main/kotlin/greedy/무지의_먹방_라이브.kt)
 
 ## 2. Implement
 :arrow_forward: [바로가기](/src/main/kotlin/implement)
@@ -30,6 +34,8 @@
 * [X] [시각](/src/main/kotlin/implement/시각.kt)
 * [X] [왕실의 나이트](/src/main/kotlin/implement/왕실의_나이트.kt)
 * [X] [게임 개발](/src/main/kotlin/implement/게임_개발.kt)
+* [X] [럭키 스트레이트](/src/main/kotlin/implement/럭키_스트레이트.kt)
+* [X] [문자열 재정렬](/src/main/kotlin/implement/문자열_재정렬.kt)
 
 ## 3. DFS & BFS
 :arrow_forward: [바로가기](/src/main/kotlin/dfsbfs)
