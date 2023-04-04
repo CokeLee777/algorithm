@@ -36,6 +36,7 @@
 * [X] [게임 개발](/src/main/kotlin/implement/게임_개발.kt)
 * [X] [럭키 스트레이트](/src/main/kotlin/implement/럭키_스트레이트.kt)
 * [X] [문자열 재정렬](/src/main/kotlin/implement/문자열_재정렬.kt)
+* [X] [문자열 압축](/src/main/kotlin/implement/문자열_압축.kt)
 
 ## 3. DFS & BFS
 :arrow_forward: [바로가기](/src/main/kotlin/dfsbfs)
