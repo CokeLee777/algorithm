@@ -58,6 +58,7 @@
 
 ## 6. Dynamic Programming
 :arrow_forward: [바로가기](/src/main/kotlin/dynamicprogramming)
+* [X] [1로 만들기](/src/main/kotlin/dynamicprogramming/1로_만들기.kt)
 
 ## 7. Shortest Path
 :arrow_forward: [바로가기](/src/main/kotlin/shortestpath)
