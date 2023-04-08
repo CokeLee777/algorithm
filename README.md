@@ -61,9 +61,14 @@
 * [X] [1로 만들기](/src/main/kotlin/dynamicprogramming/1로_만들기.kt)
 * [X] [개미 전사](/src/main/kotlin/dynamicprogramming/개미_전사.kt)
 * [X] [바닥 공사](/src/main/kotlin/dynamicprogramming/바닥_공사.kt)
+* [X] [효율적인 화폐 구성](/src/main/kotlin/dynamicprogramming/효율적인_화폐_구성.kt)
 
 ## 7. Shortest Path
 :arrow_forward: [바로가기](/src/main/kotlin/shortestpath)
+* [X] [개선된 다익스트라 알고리즘](/src/main/kotlin/shortestpath/개선된_다익스트라_알고리즘.kt)
+* [X] [플로이드 워셜 알고리즘](/src/main/kotlin/shortestpath/플로이드_워셜_알고리즘.kt)
+* [X] [미래 도시](/src/main/kotlin/shortestpath/미래_도.kt)
+* [X] [전보](/src/main/kotlin/shortestpath/전보.kt)
 
 ## 8. Graph
 :arrow_forward: [바로가기](/src/main/kotlin/graph)
