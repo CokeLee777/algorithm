@@ -72,6 +72,13 @@
 
 ## 8. Graph
 :arrow_forward: [바로가기](/src/main/kotlin/graph)
+* [X] [서로소 집합 알고리즘](/src/main/kotlin/graph/서로소_집합_알고리즘.kt)
+* [X] [서로소 집합 사이클 판별 알고리즘](/src/main/kotlin/graph/서로소_집합_사이클_판별_알고리즘.kt)
+* [X] [크루스칼 알고리즘](/src/main/kotlin/graph/크루스칼_알고리즘.kt)
+* [X] [위상 정렬](/src/main/kotlin/graph/위상_정렬.kt)
+* [X] [팀 결성](/src/main/kotlin/graph/팀_결성.kt)
+* [X] [도시 분할 계획](/src/main/kotlin/graph/도시_분할_계획.kt)
+* [ ] [커리큘럼](/src/main/kotlin/graph/커리큘럼.kt)
 
 ## 9. Problems & Solved
 :arrow_forward: [바로가기](/src/main/kotlin/problems)
