@@ -44,6 +44,8 @@
 * [X] [BFS 예제](/src/main/kotlin/dfsbfs/BFS_예제.kt)
 * [X] [음료수 얼려 먹기](/src/main/kotlin/dfsbfs/음료수_얼려_먹기.kt)
 * [X] [미로 탈출](/src/main/kotlin/dfsbfs/미로_탈출.kt)
+* [X] [특정 거리의 도시 찾기](/src/main/kotlin/dfsbfs/특정_거리의_도시_찾기.kt)
+* [X] [연구소](/src/main/kotlin/dfsbfs/연구소.kt)
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
