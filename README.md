@@ -47,6 +47,7 @@
 * [X] [특정 거리의 도시 찾기](/src/main/kotlin/dfsbfs/특정_거리의_도시_찾기.kt)
 * [X] [연구소](/src/main/kotlin/dfsbfs/연구소.kt)
 * [X] 경쟁적 전염: (Kotlin / [Java](/src/main/kotlin/dfsbfs/경쟁적_전염.java))
+* [X] 괄호 변환: (Kotlin / [Java](/src/main/kotlin/dfsbfs/괄호_변환.java))
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
