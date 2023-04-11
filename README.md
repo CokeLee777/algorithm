@@ -46,6 +46,7 @@
 * [X] [미로 탈출](/src/main/kotlin/dfsbfs/미로_탈출.kt)
 * [X] [특정 거리의 도시 찾기](/src/main/kotlin/dfsbfs/특정_거리의_도시_찾기.kt)
 * [X] [연구소](/src/main/kotlin/dfsbfs/연구소.kt)
+* [X] 경쟁적 전염: (Kotlin / [Java](/src/main/kotlin/dfsbfs/경쟁적_전염.java))
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
@@ -74,13 +75,13 @@
 
 ## 8. Graph
 :arrow_forward: [바로가기](/src/main/kotlin/graph)
-* [X] [서로소 집합 알고리즘](/src/main/kotlin/graph/서로소_집합_알고리즘.kt)
+* [X] 서로소 집합 알고리즘: ([Kotlin](/src/main/kotlin/graph/서로소_집합_알고리즘.kt) / [Java](/src/main/kotlin/graph/서로소_집합_알고리즘.java)) 
 * [X] [서로소 집합 사이클 판별 알고리즘](/src/main/kotlin/graph/서로소_집합_사이클_판별_알고리즘.kt)
-* [X] [크루스칼 알고리즘](/src/main/kotlin/graph/크루스칼_알고리즘.kt)
-* [X] [위상 정렬](/src/main/kotlin/graph/위상_정렬.kt)
+* [X] 크루스칼 알고리즘: ([Kotlin](/src/main/kotlin/graph/크루스칼_알고리즘.kt) / [Java](/src/main/kotlin/graph/크루스칼_알고리즘.java))
+* [X] 위상 정렬: ([Kotlin](/src/main/kotlin/graph/위상_정렬.kt) / [Java](/src/main/kotlin/graph/위상_정렬.java))
 * [X] [팀 결성](/src/main/kotlin/graph/팀_결성.kt)
 * [X] [도시 분할 계획](/src/main/kotlin/graph/도시_분할_계획.kt)
-* [ ] [커리큘럼](/src/main/kotlin/graph/커리큘럼.kt)
+* [X] 커리큘럼: (Kotlin / [Java](/src/main/kotlin/graph/커리큘럼.java))
 
 ## 9. Problems & Solved
 :arrow_forward: [바로가기](/src/main/kotlin/problems)
