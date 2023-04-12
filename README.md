@@ -48,6 +48,7 @@
 * [X] [연구소](/src/main/kotlin/dfsbfs/연구소.kt)
 * [X] 경쟁적 전염: (Kotlin / [Java](/src/main/kotlin/dfsbfs/경쟁적_전염.java))
 * [X] 괄호 변환: (Kotlin / [Java](/src/main/kotlin/dfsbfs/괄호_변환.java))
+* [X] 연산자 끼워 넣기: (Kotlin / [Java](/src/main/kotlin/dfsbfs/연산자_끼워_넣기.java))
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
@@ -83,8 +84,10 @@
 * [X] [팀 결성](/src/main/kotlin/graph/팀_결성.kt)
 * [X] [도시 분할 계획](/src/main/kotlin/graph/도시_분할_계획.kt)
 * [X] 커리큘럼: (Kotlin / [Java](/src/main/kotlin/graph/커리큘럼.java))
-
-## 9. Problems & Solved
-:arrow_forward: [바로가기](/src/main/kotlin/problems)
+* [X] 여행 계획: (Kotlin / [Java](/src/main/kotlin/graph/여행_계획.java))
+* [X] 어두운 길: (Kotlin / [Java](/src/main/kotlin/graph/어두운_길.java))
+* [ ] 행성 터널: (Kotlin / [Java](/src/main/kotlin/graph/행성_터널.java))
 
 ---
+
+* 참고 자료: 이것이 취업을 위한 코딩테스트다 [나동빈]
