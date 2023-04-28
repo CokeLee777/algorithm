@@ -74,6 +74,8 @@
 * [X] [플로이드 워셜 알고리즘](/src/main/kotlin/shortestpath/플로이드_워셜_알고리즘.kt)
 * [X] [미래 도시](/src/main/kotlin/shortestpath/미래_도.kt)
 * [X] [전보](/src/main/kotlin/shortestpath/전보.kt)
+* [X] 플로이드: (Kotlin / [Java](/src/main/kotlin/shortestpath/플로이드.java))
+* [ ] 정확한 순위: (Kotlin / [Java](/src/main/kotlin/shortestpath/정확한_순위.java))
 
 ## 8. Graph
 :arrow_forward: [바로가기](/src/main/kotlin/graph)
