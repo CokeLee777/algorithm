@@ -76,6 +76,7 @@
 * [X] [전보](/src/main/kotlin/shortestpath/전보.kt)
 * [X] 플로이드: (Kotlin / [Java](/src/main/kotlin/shortestpath/플로이드.java))
 * [ ] 정확한 순위: (Kotlin / [Java](/src/main/kotlin/shortestpath/정확한_순위.java))
+* [X] 화성 탐사: (Kotlin / [Java](/src/main/kotlin/shortestpath/화성_탐ㅌ.java))
 
 ## 8. Graph
 :arrow_forward: [바로가기](/src/main/kotlin/graph)
