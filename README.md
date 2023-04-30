@@ -76,7 +76,8 @@
 * [X] [전보](/src/main/kotlin/shortestpath/전보.kt)
 * [X] 플로이드: (Kotlin / [Java](/src/main/kotlin/shortestpath/플로이드.java))
 * [ ] 정확한 순위: (Kotlin / [Java](/src/main/kotlin/shortestpath/정확한_순위.java))
-* [X] 화성 탐사: (Kotlin / [Java](/src/main/kotlin/shortestpath/화성_탐ㅌ.java))
+* [X] 화성 탐사: (Kotlin / [Java](/src/main/kotlin/shortestpath/화성_탐사.java))
+* [X] 숨바꼭질: (Kotlin / [Java](/src/main/kotlin/shortestpath/숨바꼭질.java))
 
 ## 8. Graph
 :arrow_forward: [바로가기](/src/main/kotlin/graph)
@@ -88,8 +89,10 @@
 * [X] [도시 분할 계획](/src/main/kotlin/graph/도시_분할_계획.kt)
 * [X] 커리큘럼: (Kotlin / [Java](/src/main/kotlin/graph/커리큘럼.java))
 * [X] 여행 계획: (Kotlin / [Java](/src/main/kotlin/graph/여행_계획.java))
+* [X] 탑승구: (Kotlin / [Java](/src/main/kotlin/graph/탑승구.java))
 * [X] 어두운 길: (Kotlin / [Java](/src/main/kotlin/graph/어두운_길.java))
 * [ ] 행성 터널: (Kotlin / [Java](/src/main/kotlin/graph/행성_터널.java))
+* [ ] 최종 순위: (Kotlin / [Java](/src/main/kotlin/graph/최종_순위.java))
 
 ---
 
