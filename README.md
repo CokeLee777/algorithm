@@ -75,7 +75,7 @@
 * [X] [미래 도시](/src/main/kotlin/shortestpath/미래_도.kt)
 * [X] [전보](/src/main/kotlin/shortestpath/전보.kt)
 * [X] 플로이드: (Kotlin / [Java](/src/main/kotlin/shortestpath/플로이드.java))
-* [ ] 정확한 순위: (Kotlin / [Java](/src/main/kotlin/shortestpath/정확한_순위.java))
+* [X] 정확한 순위: (Kotlin / [Java](/src/main/kotlin/shortestpath/정확한_순위.java))
 * [X] 화성 탐사: (Kotlin / [Java](/src/main/kotlin/shortestpath/화성_탐사.java))
 * [X] 숨바꼭질: (Kotlin / [Java](/src/main/kotlin/shortestpath/숨바꼭질.java))
 
