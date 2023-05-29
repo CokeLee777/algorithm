@@ -49,6 +49,7 @@
 * [X] 경쟁적 전염: (Kotlin / [Java](/src/main/kotlin/dfsbfs/경쟁적_전염.java))
 * [X] 괄호 변환: (Kotlin / [Java](/src/main/kotlin/dfsbfs/괄호_변환.java))
 * [X] 연산자 끼워 넣기: (Kotlin / [Java](/src/main/kotlin/dfsbfs/연산자_끼워_넣기.java))
+* [X] 감시 피하기: (Kotlin / [Java](/src/main/kotlin/dfsbfs/감시_피하기.java))
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
@@ -72,7 +73,7 @@
 :arrow_forward: [바로가기](/src/main/kotlin/shortestpath)
 * [X] [개선된 다익스트라 알고리즘](/src/main/kotlin/shortestpath/개선된_다익스트라_알고리즘.kt)
 * [X] [플로이드 워셜 알고리즘](/src/main/kotlin/shortestpath/플로이드_워셜_알고리즘.kt)
-* [X] [미래 도시](/src/main/kotlin/shortestpath/미래_도.kt)
+* [X] [미래 도시](/src/main/kotlin/shortestpath/미래_도시.kt)
 * [X] [전보](/src/main/kotlin/shortestpath/전보.kt)
 * [X] 플로이드: (Kotlin / [Java](/src/main/kotlin/shortestpath/플로이드.java))
 * [X] 정확한 순위: (Kotlin / [Java](/src/main/kotlin/shortestpath/정확한_순위.java))
