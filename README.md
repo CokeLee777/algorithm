@@ -11,7 +11,6 @@
 6. [Dynamic Programming](#6-dynamic-programming)
 7. [Shortest Path](#7-shortest-path)
 8. [Graph](#8-graph)
-9. [Problems & Solved](#9-problems--solved)
 
 ---
 
@@ -50,6 +49,7 @@
 * [X] 괄호 변환: (Kotlin / [Java](/src/main/kotlin/dfsbfs/괄호_변환.java))
 * [X] 연산자 끼워 넣기: (Kotlin / [Java](/src/main/kotlin/dfsbfs/연산자_끼워_넣기.java))
 * [X] 감시 피하기: (Kotlin / [Java](/src/main/kotlin/dfsbfs/감시_피하기.java))
+* [X] 인구 이동: (Kotlin / [Java](/src/main/kotlin/dfsbfs/인구_이동.java))
 
 ## 4. Sort
 :arrow_forward: [바로가기](/src/main/kotlin/sort)
