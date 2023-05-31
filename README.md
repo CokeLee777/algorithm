@@ -61,6 +61,7 @@
 * [X] 국영수: (Kotlin / [Java](/src/main/kotlin/sort/국영수.java))
 * [X] 안테나: (Kotlin / [Java](/src/main/kotlin/sort/안테나.java))
 * [X] 실패율: (Kotlin / [Java](/src/main/kotlin/sort/실패율.java))
+* [X] 카드 정렬하기: (Kotlin / [Java](/src/main/kotlin/sort/카드_정렬하기.java))
 
 ## 5. Binary Search
 :arrow_forward: [바로가기](/src/main/kotlin/binarysearch)
