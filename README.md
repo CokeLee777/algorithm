@@ -58,6 +58,9 @@
 * [X] [퀵 정렬](/src/main/kotlin/sort/퀵_정렬.kt)
 * [X] [계수 정렬](/src/main/kotlin/sort/계수_정렬.kt)
 * [X] [두 배열의 원소교체](/src/main/kotlin/sort/두_배열의_원소교체.kt)
+* [X] 국영수: (Kotlin / [Java](/src/main/kotlin/sort/국영수.java))
+* [X] 안테나: (Kotlin / [Java](/src/main/kotlin/sort/안테나.java))
+* [X] 실패율: (Kotlin / [Java](/src/main/kotlin/sort/실패율.java))
 
 ## 5. Binary Search
 :arrow_forward: [바로가기](/src/main/kotlin/binarysearch)
