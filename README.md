@@ -69,6 +69,7 @@
 * [X] 부품 찾기: (Kotlin / [Java](/src/main/kotlin/binarysearch/부품_찾기.java))
 * [X] 떡볶이 떡 만들기: (Kotlin / [Java](/src/main/kotlin/binarysearch/떡볶이_떡_만들기.java))
 * [X] 고정점 찾기: (Kotlin / [Java](/src/main/kotlin/binarysearch/고정점_찾기.java))
+* [X] 공유기 설치: (Kotlin / [Java](/src/main/kotlin/binarysearch/공유기_설치.java))
 
 ## 6. Dynamic Programming
 :arrow_forward: [바로가기](/src/main/kotlin/dynamicprogramming)
