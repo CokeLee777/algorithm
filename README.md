@@ -25,7 +25,7 @@
 * [X] [문자열 뒤집기](/src/main/kotlin/greedy/문자열_뒤집기.kt)
 * [X] [만들 수 없는 금액](/src/main/kotlin/greedy/만들수_없는_금액.kt)
 * [X] [볼링공 고르기](/src/main/kotlin/greedy/볼링공_고르기.kt)
-* [ ] [무지의 먹방 라이브](/src/main/kotlin/greedy/무지의_먹방_라이브.kt)
+* [X] 무지의 먹방 라이브: (Kotlin / [Java](/src/main/kotlin/greedy/무지의_먹방_라이브.java))
 
 ## 2. Implement
 :arrow_forward: [바로가기](/src/main/kotlin/implement)
