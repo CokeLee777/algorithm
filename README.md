@@ -105,7 +105,7 @@
 * [X] 탑승구: (Kotlin / [Java](/src/main/kotlin/graph/탑승구.java))
 * [X] 어두운 길: (Kotlin / [Java](/src/main/kotlin/graph/어두운_길.java))
 * [ ] 행성 터널: (Kotlin / [Java](/src/main/kotlin/graph/행성_터널.java))
-* [ ] 최종 순위: (Kotlin / [Java](/src/main/kotlin/graph/최종_순위.java))
+* [X] 최종 순위: (Kotlin / [Java](/src/main/kotlin/graph/최종_순위.java))
 
 ---
 
