@@ -79,7 +79,7 @@
 * [X] [효율적인 화폐 구성](/src/main/kotlin/dynamicprogramming/효율적인_화폐_구성.kt)
 * [X] 금광: (Kotlin / [Java](/src/main/kotlin/dynamicprogramming/금광.java))
 * [X] 정수 삼각형: (Kotlin / [Java](/src/main/kotlin/dynamicprogramming/정수_삼각형.java))
-* [ ] 퇴사: (Kotlin / [Java](/src/main/kotlin/dynamicprogramming/퇴사.java))
+* [X] 퇴사: (Kotlin / [Java](/src/main/kotlin/dynamicprogramming/퇴사.java))
 
 ## 7. Shortest Path
 :arrow_forward: [바로가기](/src/main/kotlin/shortestpath)
